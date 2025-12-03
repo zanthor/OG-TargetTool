@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bindings>
+  <Binding name="OGTT_LASTTARGET" header="TARGET_TOOL" category="ADDONS">
+    OGTT_TargetLastTarget()
+  </Binding>
+  <Binding name="OGTT_LASTPOOLTARGET" header="TARGET_TOOL" category="ADDONS">
+    OGTT_TargetLastPoolTarget()
+  </Binding>
+  <Binding name="OGTT_NEXTPOOLTARGET" header="TARGET_TOOL" category="ADDONS">
+    OGTT_TargetNextPoolTarget()
+  </Binding>
+  <Binding name="OGTT_INCREASEPOOLSIZE" header="TARGET_TOOL" category="ADDONS">
+    OGTT_IncreasePoolSize()
+  </Binding>
+  <Binding name="OGTT_DECREASEPOOLSIZE" header="TARGET_TOOL" category="ADDONS">
+    OGTT_DecreasePoolSize()
+  </Binding>
+</Bindings>
