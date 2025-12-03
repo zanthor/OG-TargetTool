@@ -1,6 +1,6 @@
 # OG-TargetTool
 
-Improved targeting utilities for Turtle WoW (World of Warcraft 1.12 client).
+Improved targeting keybinds for TWoW (World of Warcraft 1.12 client).
 
 ## Features
 
@@ -37,7 +37,7 @@ Improved targeting utilities for Turtle WoW (World of Warcraft 1.12 client).
 
 **Required:**
 - World of Warcraft 1.12 client (Vanilla)
-- Turtle WoW server with SuperWoW extensions
+- SuperWoW
 
 **SuperWoW API Used:**
 - `UnitExists(unit)` - Returns `(exists, guid)` for GUID-based targeting
