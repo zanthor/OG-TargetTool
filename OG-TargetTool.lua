@@ -104,10 +104,6 @@ end
 
 -- ===== Target Change Tracking =====
 evt:SetScript("OnEvent", function()
-  if event == "ADDON_LOADED" then
-    DEFAULT_CHAT_FRAME:AddMessage("ADDON_LOADED: " .. tostring(arg1))
-  end
-  
   if event == "ADDON_LOADED" and arg1 == "OG-TargetTool" then
     -- Initialize saved variables with defaults
     OGTT_Settings = OGTT_Settings or {}
