@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: OG-TargetTool
+## Notes: Improved Targeting for Turtle WoW!
+## Author: Tankmedady
+## Version: 1.0
+## SavedVariables: OGTT_Settings
+
+Localization.lua
+Bindings.xml
+OG-TargetTool.lua
