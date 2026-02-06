@@ -4,6 +4,7 @@
 ## Author: Tankmedady
 ## Version: 1.0
 ## SavedVariables: OGTT_Settings
+## OptionalDeps: _OGAALogger
 
 Localization.lua
 Bindings.xml
